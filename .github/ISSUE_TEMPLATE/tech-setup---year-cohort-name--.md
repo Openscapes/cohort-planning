@@ -2,7 +2,7 @@
 name: Tech setup [ year-cohort-name ]
 about: template purpose here
 title: Tech setup [ year-cohort-name ]
-labels: ''
+labels: 01-call, ahead-of
 assignees: stefaniebutland
 
 ---
