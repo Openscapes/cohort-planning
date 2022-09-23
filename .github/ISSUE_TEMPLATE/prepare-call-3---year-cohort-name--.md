@@ -1,8 +1,8 @@
 ---
-name: Prepare Call 3 [ year-cohort-name ]
+name: Prepare Call # [ year-cohort-name ]
 about: Describe this issue template's purpose here.
-title: Prepare Call 3 [ year-cohort-name ]
-labels: 03-call, ahead-of
+title: Prepare Call # [ year-cohort-name ]
+labels: ahead-of
 assignees: stefaniebutland
 
 ---
