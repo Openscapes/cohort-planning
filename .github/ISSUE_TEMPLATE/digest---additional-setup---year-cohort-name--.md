@@ -2,7 +2,7 @@
 name: Digest & additional setup [ year-cohort-name ]
 about: Describe this issue template's purpose here.
 title: Digest & additional setup [ year-cohort-name ]
-labels: 01-call, following
+labels: 01-call, ahead-of, following
 assignees: stefaniebutland
 
 ---
