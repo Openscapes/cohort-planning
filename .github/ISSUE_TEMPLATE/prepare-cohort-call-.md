@@ -1,7 +1,7 @@
 ---
-name: Prepare Call
-about: Describe this issue template's purpose here.
-title: Prepare Call
+name: 'Prepare Cohort Call '
+about: use for all Cohort Calls
+title: Prepare Cohort Call [ year-cohort-name ]
 labels: ahead-of
 assignees: stefaniebutland
 
