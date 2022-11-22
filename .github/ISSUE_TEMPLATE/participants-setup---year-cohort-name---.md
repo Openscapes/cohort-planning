@@ -21,3 +21,4 @@ Google Calendar:
 
 Google Folder:
 -   [ ] day before Call 1, add participants emails to `Openscapes_CohortCalls` folder
+-   [ ] add  Google Folder link to Google Calendar recurring invite under description
