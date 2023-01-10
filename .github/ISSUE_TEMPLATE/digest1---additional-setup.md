@@ -1,5 +1,5 @@
 ---
-name: Digest 1 & additional setup [ year-cohort-name ]
+name: Digest 1 & additional setup
 about: Describe this issue template's purpose here.
 title: Digest 1 & additional setup [ year-cohort-name ]
 labels: 01-call, following
