@@ -1,8 +1,8 @@
 ---
-name: Digest & additional setup [ year-cohort-name ]
+name: Digest 1 & additional setup [ year-cohort-name ]
 about: Describe this issue template's purpose here.
-title: Digest & additional setup [ year-cohort-name ]
-labels: 01-call, ahead-of, following
+title: Digest 1 & additional setup [ year-cohort-name ]
+labels: 01-call, following
 assignees: stefaniebutland
 
 ---
@@ -13,7 +13,7 @@ assignees: stefaniebutland
   - [examples in Approach Guide](https://openscapes.github.io/approach-guide/champions/leading-cohort-calls.html#between-cohort-calls)
 
 Slack
--   [ ] (create private cohort channel - for Fall NMFS we'll have one Slack channel for all 4 Cohorts)
+-   [ ] create private cohort channel 
 -   [ ] Email participants link to join Slack, with orientation to Slack e.g. how to, #welcome channel, etc 
 
 Google Calendar
