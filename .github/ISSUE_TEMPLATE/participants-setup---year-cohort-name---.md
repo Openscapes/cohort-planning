@@ -1,6 +1,6 @@
 ---
-name: 'Participants Setup [ year-cohort-name ] '
-about: Describe this issue template's purpose here.
+name: Participants Setup
+about: Providing access at the right time
 title: Participants Setup [ year-cohort-name ]
 labels: 01-call, ahead-of
 assignees: jules32, stefaniebutland
