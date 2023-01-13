@@ -1,7 +1,7 @@
 ---
 name: Intro Calls (aka 1:1's )
 about: Scheduling and running intro calls with Cohort participants
-title: Intro Calls (aka 1:1's )
+title: Intro Calls (aka 1:1's ) [ year-cohort-name ]
 labels: 01-call, ahead-of
 assignees: stefaniebutland
 
