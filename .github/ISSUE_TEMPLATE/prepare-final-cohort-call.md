@@ -1,7 +1,7 @@
 ---
 name: Prepare final Cohort Call
 about: Final Call requires some additional tasks
-title: Prepare final Cohort Call
+title: Prepare final Cohort Call [ year-cohort-name ]
 labels: following
 assignees: stefaniebutland
 
