@@ -1,3 +1,5 @@
+This issue template will be superseded by newer templates breaking this down into smaller pieces. Keeping it for now (Jan 13, 2023)
+
 This issue is to help track the pre-cohort setup, following the [approach-guide](https://openscapes.github.io/approach-guide/champions/) and focused on the engagement and tech setup after participants have been selected.
 
 These TODO's are for @jules32 unless otherwise noted. cc: ASSIST-TEAM
