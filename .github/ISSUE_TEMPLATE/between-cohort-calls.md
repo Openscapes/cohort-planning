@@ -1,7 +1,7 @@
 ---
 name: Between Cohort Calls
 about: Digests and Coworking setup
-title: 'After Cohort Call #'
+title: 'After Cohort Call # [ year-cohort-name ]'
 labels: following
 assignees: stefaniebutland
 
