@@ -9,6 +9,8 @@ assignees: stefaniebutland
 
 ## For Cohort Planning Team (Stef, Julie)
 
+These tasks are described in the [Approach Guide - Cohort tech setup](https://openscapes.github.io/approach-guide/champions/pre-cohort-tech.html)
+
 - [ ] invite co-leads/assists to Google Calendar Cohort Calls
 
 GitHub:
