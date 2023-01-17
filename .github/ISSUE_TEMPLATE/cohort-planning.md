@@ -12,3 +12,5 @@ assignees: stefaniebutland
 - [ ] Create `CohortCalendaring [ year-cohort-name ]` Google sheet (copy from recent doc)
 - [ ] populate `CohortCalendaring [ year-cohort-name ]` with dates, session topics, guests etc
 - [ ] add to [Openscapes Events](https://openscapes.github.io/events/) 
+
+Link to the relevant docs from this issue, once they're created.
