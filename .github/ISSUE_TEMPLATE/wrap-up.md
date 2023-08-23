@@ -14,3 +14,4 @@ assignees: ''
 - [ ] follow up with snail mail addresses
 - [ ] move Cohort Google Folder(s) to x_Complete Folder
 - [ ] for Cohorts run in MS Teams/ Sharepoint, copy finalized docs & sheets into Openscapes Google Workspace for our records
+- [ ] add cohort webpage & blog post to Cohort Event page
