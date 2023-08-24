@@ -10,7 +10,7 @@ assignees: jules32, stefaniebutland
 ## Adding Participants (giving access at the right time)
 
 Data entry:
--   [ ] Add Participants to database
+-   [ ] Add Participants to database: : OpenscapesParticipantsMainList and OpenscapesParticipants [ year-chort-name ]
 
 Emails
 -   [ ] send welcome email (see [Approach Guide - Cohort welcome](https://openscapes.github.io/approach-guide/champions/pre-cohort-engage.html#cohort-welcome) for examples)
