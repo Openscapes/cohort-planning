@@ -17,7 +17,8 @@ Emails
 -   [ ] day before Call 1, send "reminder", after adding participants to `Openscapes_CohortCalls` folder
 
 Google Calendar:
--   [ ] when sending Welcome Email, add participants emails to Google Calendar Invites: OpenscapesCohorts
+-   [ ] when sending Welcome Email, add participants emails to Google Calendar Invites: OpenscapesEvents for Cohort Calls and optional Coworking sessions.
+  - [Approach Guide - Pre-cohort engagement](https://openscapes.github.io/approach-guide/champions/pre-cohort-engage.html) has sample text for invite titles and descriptions
 
 Google Folder:
 -   [ ] day before Call 1, add participants emails to `Openscapes_CohortCalls` folder
