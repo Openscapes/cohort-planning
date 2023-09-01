@@ -11,7 +11,8 @@ assignees: stefaniebutland
 
 These tasks are described in the [Approach Guide - Cohort tech setup](https://openscapes.github.io/approach-guide/champions/pre-cohort-tech.html)
 
-- [ ] invite co-leads/assists to Google Calendar Cohort Calls
+- [ ] invite co-leads/assists to Google Calendar Cohort Calls and optional Coworking sessions via OpenscapesEvents Calendar
+  - Approach Guide has sample text for invite titles and descriptions
 
 GitHub:
 -   [ ] create GitHub repo for cohort with cohort name (example: github.com/openscapes/2022-noaa-sefsc-summer)
