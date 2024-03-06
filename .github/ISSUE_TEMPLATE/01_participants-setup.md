@@ -1,5 +1,5 @@
 ---
-name: Participants Setup
+name: 01 Participants Setup
 about: Providing access at the right time
 title: Participants Setup [ year-cohort-name ]
 labels: 01-call, ahead-of
