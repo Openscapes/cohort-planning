@@ -1,13 +1,13 @@
 ---
-name: Digest 1 & additional setup
-about: Describe this issue template's purpose here.
+name: 06 Digest 1 & additional setup
+about: Tasks after Call 1 include additional setup
 title: Digest 1 & additional setup [ year-cohort-name ]
 labels: 01-call, following
 assignees: stefaniebutland
 
 ---
 
-- [ ] Field Notes
+- [ ] Debrief Notes
 
 - [ ] Digest 1, via email (include Slack invite & orientation, below), then post as issue in Cohort repo
   - [examples in Approach Guide](https://openscapes.github.io/approach-guide/champions/leading-cohort-calls.html#between-cohort-calls)
@@ -17,4 +17,4 @@ Slack
 -   [ ] Email participants link to join Slack, with orientation to Slack e.g. how to, #welcome channel, etc 
 
 Google Calendar
--   [ ] add participants emails to Google Calendar Invites: Co-working times (participation optional)
+-   [ ] add participants emails to Google Calendar Invites for Coworking times (participation optional)
