@@ -1,7 +1,7 @@
 ---
-name: 01 Participants Setup
+name: 03 Participants setup & welcome
 about: Providing access at the right time
-title: Participants Setup [ year-cohort-name ]
+title: Participants setup & welcome [ year-cohort-name ]
 labels: 01-call, ahead-of
 assignees: jules32, stefaniebutland
 
