@@ -1,5 +1,5 @@
 ---
-name: Prepare final Cohort Call
+name: 09 Prepare final Cohort Call
 about: Final Call requires some additional tasks
 title: Prepare final Cohort Call [ year-cohort-name ]
 labels: ahead-of
