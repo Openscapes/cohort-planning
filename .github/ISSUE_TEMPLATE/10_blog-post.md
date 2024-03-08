@@ -1,5 +1,5 @@
 ---
-name: Blog post
+name: 10 Blog post
 about: Publish summary & highlights of a Champions Cohort
 title: Summary blog post [ year-cohort-name ]
 labels: following
