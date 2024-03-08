@@ -1,5 +1,5 @@
 ---
-name: 01 Cohort planning
+name: 01 Cohort planning docs & sheets
 about: Things to do before Cohort tech setup
 title: Cohort planning [ year-cohort-name ]
 labels: ahead-of
