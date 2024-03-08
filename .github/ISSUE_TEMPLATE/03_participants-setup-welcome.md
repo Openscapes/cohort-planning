@@ -1,6 +1,6 @@
 ---
 name: 03 Participants setup & welcome
-about: Providing access at the right time
+about: Providing access at the right times & welcome email
 title: Participants setup & welcome [ year-cohort-name ]
 labels: 01-call, ahead-of
 assignees: jules32, stefaniebutland
