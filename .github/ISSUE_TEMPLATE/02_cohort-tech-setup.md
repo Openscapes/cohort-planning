@@ -1,6 +1,6 @@
 ---
-name: 01 Cohort tech setup
-about: template purpose here
+name: 02 Cohort tech setup GitHub & Google
+about: create and populate planning doc & CohortCalendaring sheet & Google Calendar
 title: Cohort tech setup [ year-cohort-name ]
 labels: 01-call, ahead-of
 assignees: stefaniebutland
@@ -25,4 +25,4 @@ GitHub:
 
 Google Folder:
 -   [ ] create Google Folder for participants (example: `Openscapes_CohortCalls [ 2022-noaa-sefsc-summer ]`)
--   [ ] add co-leads/assists to Google Folder for participants
+-   [ ] add co-leads/assists to that Google Folder
