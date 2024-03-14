@@ -1,7 +1,7 @@
 ---
 name: 02 Cohort tech setup GitHub & Google
 about: create and populate planning doc & CohortCalendaring sheet & Google Calendar
-title: Cohort tech setup [ year-cohort-name ]
+title: 02 Cohort tech setup [ year-cohort-name ]
 labels: 01-call, ahead-of
 assignees: stefaniebutland
 

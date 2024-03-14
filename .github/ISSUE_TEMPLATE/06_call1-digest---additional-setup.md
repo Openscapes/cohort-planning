@@ -1,7 +1,7 @@
 ---
 name: 06 Call 1 Digest & additional setup
 about: Tasks after Call 1 include additional setup
-title: Call 1 Digest & additional setup [ year-cohort-name ]
+title: 06 Call 1 Digest & additional setup [ year-cohort-name ]
 labels: 01-call, following
 assignees: stefaniebutland
 
