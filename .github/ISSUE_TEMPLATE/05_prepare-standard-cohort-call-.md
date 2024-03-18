@@ -1,7 +1,7 @@
 ---
 name: 05 Prepare standard Cohort Call
 about: Agendas & review for all Cohort Calls
-title: Prepare Cohort Call # [ year-cohort-name ]
+title: 'Prepare Cohort Call # [ year-cohort-name ]'
 labels: ahead-of
 assignees: stefaniebutland
 
