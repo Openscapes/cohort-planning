@@ -13,5 +13,6 @@ assignees: ''
 - [ ] follow up with snail mail addresses
 - [ ] write thank you cards, with stickers where requested
 - [ ] move Cohort Google Folder(s) to x_Complete Folder
+- [ ] Add Participants to database: OpenscapesParticipantsMainList and OpenscapesParticipants [ year-chort-name ]
 - [ ] for Cohorts run in MS Teams/ Sharepoint, copy finalized docs & sheets & recordings into Openscapes Google Workspace for our records
 - [ ] add cohort webpage & blog post to Cohort Event page
