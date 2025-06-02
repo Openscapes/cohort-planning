@@ -11,4 +11,5 @@ assignees: stefaniebutland
 - [ ] Invite participants / teams to sign up in Agenda to present their Pathway
 - [ ] create Survey - copy most recent and save; in OpenscapesMain > OpenscapesMetrics > Surveys
   - [ ] Add link to Agenda
+- [ ] Create Completion Certificates ([kyber](https://openscapes.github.io/kyber/articles/create-certificates.html))
 - [ ] Review roles and timing
